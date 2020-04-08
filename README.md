@@ -2,15 +2,15 @@
   Desafio 1: Planejando meus estudos
 </h3>
 
-<p>Primeiro desafio do Bootcamp 11 que trata da criação de um cronograma de estudos.</p>
+<p align="center">Primeiro desafio do Bootcamp 11 que trata da criação de um cronograma de estudos.</p>
 
 <p align="center">
-  <a href="#org">Organização de estudos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#primeiro">Primeira parte</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#segundo">Segunda parte</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#terceiro">Terceira parte</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#quarta">Quarta parte</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo">Licença</a>
+  <a href="#org-estudos">Organização de estudos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#primeiro-parte">Primeira parte</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#segundo-parte">Segunda parte</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#terceiro-parte">Terceira parte</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#quarta-parte">Quarta parte</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-parte">Licença</a>
 </p>
 
 ## :org: Organização de estudos
@@ -22,7 +22,7 @@ Como eu acabei de perder o emprego por da crise atual, e eu tenho muita pratica 
 ### :primeiro: Primeira parte
 
 <p align="center">
-  <img width="80%" src="./assets/01.png">
+  <img width="80%" src="./assets/01.jpeg">
 </p>
 
 Primeiro eu criei uma lista com todos os requisitos da vaga dividido de acordo com o que eles especificaram. A ideia aqui não é só de marcar o que eu já sei ou não, isso vai acontecer, e não será na ordem que está na lista, a segunda parte irá cuidar disso, a ideia dessa lista é mera organização e dopamina conforme eu for marcando no futuro.
@@ -30,7 +30,7 @@ Primeiro eu criei uma lista com todos os requisitos da vaga dividido de acordo c
 ### :segundo: Segunda parte
 
 <p align="center">
-  <img width="80%" src="./assets/01.png">
+  <img width="80%" src="./assets/01.jpeg">
 </p>
 
 Como eu optei por manter uma rotina de trabalho, eu listei como tarefas todos os requisitos da vaga e irei tratar o meu estudo como uma sprint, onde irá durar uma semana e a quantidade de tarefas por sprint vai depender da pontuação que eu dei pra ela. Eu já realizei uma analise rapida e pontuei todas as tarefas, estabeleci dominio, categoria, prioridade e por ai vai.
@@ -38,13 +38,13 @@ Como eu optei por manter uma rotina de trabalho, eu listei como tarefas todos os
 Exemplo:
 
 <p align="center">
-  <img width="80%" src="./assets/05.png">
+  <img width="80%" src="./assets/05.jpeg">
 </p>
 
 ### :terceiro: Terceira parte
 
 <p align="center">
-  <img width="80%" src="./assets/03.png">
+  <img width="80%" src="./assets/03.jpeg">
 </p>
 
 Ainda não ficou muito bem definida, porem a minha ideia é de usar essa area para fazer anotações de cada modulo ou cada conteudo que eu veja, guardar links, referencias, criar um post, é uma area livre e organizada que eu vou adicionando conforme eu for passando pelo conteudo. Ainda não defini qual será o momento para isso.
@@ -52,7 +52,7 @@ Ainda não ficou muito bem definida, porem a minha ideia é de usar essa area pa
 ### :quarto: Quarta parte
 
 <p align="center">
-  <img width="80%" src="./assets/04.png">
+  <img width="80%" src="./assets/04.jpeg">
 </p>
 
 Aqui é uma ideia de cronograma semanal, como eu comentei, irei dar continuidade a um horario de trabalho normal, já possuo o habito de estudar por longos periodos, eu não deixei claro no cronograma mas muito provavelmente irei usar a tecnica do pomodoro, é uma tecnica que me ajuda bastante nesse sentido.
