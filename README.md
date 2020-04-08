@@ -5,12 +5,12 @@
 <p align="center">Primeiro desafio do Bootcamp 11 que trata da criação de um cronograma de estudos.</p>
 
 <p align="center">
-  <a href="#organização-estudos">Organização de estudos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#organização-de-estudos">Organização de estudos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#primeira-parte">Primeira parte</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#segunda-parte">Segunda parte</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#terceira-parte">Terceira parte</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#quarta-parte">Quarta parte</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo">Licença</a>
+  <a href="#memo-licença">Licença</a>
 </p>
 
 ## Organização de Estudos
